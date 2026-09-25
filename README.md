@@ -51,3 +51,6 @@ Aspiring Data Scientist with a guilty pleasure for naps. I'm a Python fanatic an
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/sudace">sudace</a></i></p>
+
+<!--link to video: (https://www.instagram.com/reel/Dai175ABNUm/?mtm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==)   
+link to website: https://share.google/Y52iP5NFhtEmhAqCD-->
